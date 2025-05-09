@@ -3,7 +3,7 @@
 Eduology is a learning management system developed using asp.net core.
 
 ### 🔹 Demo
-[![Watch Demo](https://img.youtube.com/vi/PUT_YOUR_SECOND_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=PUT_YOUR_SECOND_VIDEO_ID_HERE)
+[![Watch Demo](https://img.youtube.com/vi/PUT_YOUR_SECOND_VIDEO_ID_HERE/0.jpg)]
 
 ## Features
 
